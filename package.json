@@ -32,7 +32,7 @@
         "qrcode-reader": "^1.0.4",
         "qrcode-terminal": "^0.12.0",
         "sequelize": "^6.7.0",
-        "simple-git": "^2.47.0",
+        "simple-git": "^3.16.0",
         "songlyrics": "^2.2.4",
         "sqlite3": "^5.0.2",
         "string-format": "^2.0.0",
